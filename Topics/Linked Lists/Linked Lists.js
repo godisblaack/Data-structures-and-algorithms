@@ -56,7 +56,7 @@ public class LinkedListsInitialization {
 import java.util.Arrays;
 import java.util.NoSuchElementException;
 
- public class LinkedListWithFeatures {
+public class LinkedListWithFeatures {
   public static void main(String[] args) {
     var list = new LinkedList();
 
